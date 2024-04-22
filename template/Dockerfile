@@ -1,1 +1,1 @@
-FROM docker4gis/swagger:v0.0.2
+FROM docker4gis/swagger:v0.0.3
